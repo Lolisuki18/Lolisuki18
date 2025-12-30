@@ -12,7 +12,7 @@
 
 - 🎯 Mục tiêu: Trở thành một developer giỏi hơn mỗi ngày
 - 🔭 Đam mê xây dựng ứng dụng web hiện đại và tối ưu
-- 📫 Liên hệ: **leninh2004@example.com**
+- 📫 Liên hệ: **leninh2004@gmail.com**
 
 ---
 
