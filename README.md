@@ -12,13 +12,15 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 💻 Fullstack Developer, building web apps from the database and APIs to the UI
-- ⚙️ Backend with **C# / .NET**, frontend with **React / Next.js / TypeScript**
-- 🎯 Goal: become a better developer every day and grow into a strong fullstack engineer
-- 🔭 Interested in clean architecture, modern UI and performance optimization
-- 📫 Reach me at **leninh2004@gmail.com**
+<p align="center">
+  🚀 <b>Open to work:</b> Fullstack Developer (.NET / React / Next.js)<br>
+  💻 I build web apps end to end, from the database and APIs to the UI<br>
+  ⚙️ Backend with <b>C# / .NET</b>, frontend with <b>React / Next.js / TypeScript</b><br>
+  🔭 Currently building my own ecosystem of deployed projects, starting with my portfolio<br>
+  📫 Reach me at <b>leninh2004@gmail.com</b>
+</p>
 
 ---
 
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -46,6 +49,12 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
 <h3 align="center">Tools</h3>
 
 <p align="center">
@@ -57,22 +66,22 @@
 
 ---
 
-## 🌐 Live Projects
+<h2 align="center">🚀 Live Projects</h2>
 
 <div align="center">
 
-| Project | Live Demo |
-| :-- | :-- |
-| **ninhle-hub** (Portfolio) | [ninhhub.id.vn](https://ninhhub.id.vn) |
-| **ninhle-corner** | [corner.ninhhub.id.vn](https://corner.ninhhub.id.vn) |
-| **devtools-hub** | [verdbench.ninhhub.id.vn](https://verdbench.ninhhub.id.vn) |
-| **image-tools** | [image.ninhhub.id.vn](https://image.ninhhub.id.vn) |
+| Project | Description | Tech | Live Demo |
+| :-- | :-- | :-- | :-- |
+| **Ninh Lê** (Portfolio) | Personal CV and portfolio | Next.js | [ninhhub.id.vn](https://ninhhub.id.vn) |
+| **Góc của Ninh Lê** | Personal blog on tech, knowledge and reflections | Next.js | [corner.ninhhub.id.vn](https://corner.ninhhub.id.vn) |
+| **Verdbench** | 40+ free developer tools that run 100% in the browser: JSON formatter, JWT decoder, Regex tester, cURL converter... | Next.js | [verdbench.ninhhub.id.vn](https://verdbench.ninhhub.id.vn) |
+| **Picsmith** | Free image & PDF toolkit in the browser: compress images, AI background removal, PDF signing, QR codes... No uploads | Next.js | [image.ninhhub.id.vn](https://image.ninhhub.id.vn) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="700" alt="Profile details" />
@@ -90,7 +99,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -102,7 +111,7 @@
 
 ---
 
-## 🌐 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ninh-l%C3%AA-54a601277">
