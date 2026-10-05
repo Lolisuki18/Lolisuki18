@@ -54,14 +54,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="700" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Repos per language" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Most commit language" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="Productive time" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="345" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="345" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="345" alt="Repos per language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="345" alt="Most commit language" />
 </p>
 
 ---
