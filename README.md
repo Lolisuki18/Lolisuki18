@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;C%23+%2F+.NET+%2B+React+%2F+Next.js;Building+modern%2C+performant+web+apps;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://ninhhub.id.vn">
+    <img src="https://img.shields.io/badge/Portfolio-ninhhub.id.vn-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -48,6 +54,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+## 🌐 Live Projects
+
+<div align="center">
+
+| Project | Live Demo |
+| :-- | :-- |
+| **ninhle-hub** (Portfolio) | [ninhhub.id.vn](https://ninhhub.id.vn) |
+| **ninhle-corner** | [corner.ninhhub.id.vn](https://corner.ninhhub.id.vn) |
+| **devtools-hub** | [verdbench.ninhhub.id.vn](https://verdbench.ninhhub.id.vn) |
+| **image-tools** | [image.ninhhub.id.vn](https://image.ninhhub.id.vn) |
+
+</div>
 
 ---
 
