@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lê Nguyễn An Ninh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;C%23+%2F+.NET+%2B+React+%2F+Next.js;Building+modern%2C+performant+web+apps;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;C%23+%2F+.NET+%2B+React+%2F+Next.js;Shipping+4+live+projects;Open+to+work%3A+Fullstack" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
   🚀 <b>Open to work:</b> Fullstack Developer (.NET / React / Next.js)<br>
@@ -21,6 +21,21 @@
   🔭 Currently building my own ecosystem of deployed projects, starting with my portfolio<br>
   📫 Reach me at <b>leninh2004@gmail.com</b>
 </p>
+
+---
+
+<h2 align="center">🚀 Live Projects</h2>
+
+<div align="center">
+
+| Project | Description | Tech | Live Demo |
+| :-- | :-- | :-- | :-- |
+| **Ninh Lê** (Portfolio) | Personal CV and portfolio | Next.js | [ninhhub.id.vn](https://ninhhub.id.vn) |
+| **Góc của Ninh Lê** | Personal blog on tech, knowledge and reflections | Next.js | [corner.ninhhub.id.vn](https://corner.ninhhub.id.vn) |
+| **Verdbench** | 40+ free developer tools that run 100% in the browser: JSON formatter, JWT decoder, Regex tester, cURL converter... | Next.js | [verdbench.ninhhub.id.vn](https://verdbench.ninhhub.id.vn) |
+| **Picsmith** | Free image & PDF toolkit in the browser: compress images, AI background removal, PDF signing, QR codes... No uploads | Next.js | [image.ninhhub.id.vn](https://image.ninhhub.id.vn) |
+
+</div>
 
 ---
 
@@ -63,21 +78,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-<h2 align="center">🚀 Live Projects</h2>
-
-<div align="center">
-
-| Project | Description | Tech | Live Demo |
-| :-- | :-- | :-- | :-- |
-| **Ninh Lê** (Portfolio) | Personal CV and portfolio | Next.js | [ninhhub.id.vn](https://ninhhub.id.vn) |
-| **Góc của Ninh Lê** | Personal blog on tech, knowledge and reflections | Next.js | [corner.ninhhub.id.vn](https://corner.ninhhub.id.vn) |
-| **Verdbench** | 40+ free developer tools that run 100% in the browser: JSON formatter, JWT decoder, Regex tester, cURL converter... | Next.js | [verdbench.ninhhub.id.vn](https://verdbench.ninhhub.id.vn) |
-| **Picsmith** | Free image & PDF toolkit in the browser: compress images, AI background removal, PDF signing, QR codes... No uploads | Next.js | [image.ninhhub.id.vn](https://image.ninhhub.id.vn) |
-
-</div>
 
 ---
 
